@@ -1,4 +1,4 @@
-# 📘 General-Purpose Booking System
+# 📘 CampusReserve - Room Booking System
 
 > ## Why this project exists
 >
